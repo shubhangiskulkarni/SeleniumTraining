@@ -1,0 +1,34 @@
+[INFO ] 2022-09-10 17:58:11.076 [main] LoggerForTests - Info log from employee division validation. Expected value is Tester
+[INFO ] 2022-09-10 17:58:11.094 [main] LoggerForTests - Info log from employee division validation. Expected value is Dev
+[INFO ] 2022-09-10 17:58:11.099 [main] LoggerForTests - Info log from employee division validation. Expected value is Pwoner
+[INFO ] 2022-09-10 17:58:11.101 [main] LoggerForTests - Info log from employee division validation. Expected value is Dir
+[INFO ] 2022-09-10 17:58:11.104 [main] LoggerForTests - Info log from employee division validation. Expected value is VP
+[INFO ] 2022-09-10 18:08:52.796 [main] LoggerForTests - Opening Edge browser.
+[INFO ] 2022-09-10 18:10:42.175 [main] LoggerForTests - Info log from employee division validation. Expected value is Tester
+[INFO ] 2022-09-10 18:10:42.181 [main] LoggerForTests - Info log from employee division validation. Expected value is Dev
+[INFO ] 2022-09-10 18:10:42.183 [main] LoggerForTests - Info log from employee division validation. Expected value is Pwoner
+[INFO ] 2022-09-10 18:10:42.186 [main] LoggerForTests - Info log from employee division validation. Expected value is Dir
+[INFO ] 2022-09-10 18:10:42.189 [main] LoggerForTests - Info log from employee division validation. Expected value is VP
+[INFO ] 2022-09-10 18:10:57.658 [main] LoggerForTests - Opening Edge browser.
+[INFO ] 2022-09-10 20:40:46.770 [main] LoggerForTests - Opening Edge browser.
+[INFO ] 2022-09-12 12:35:37.264 [main] LoggerForTests - Opening Edge browser.
+[INFO ] 2022-09-12 12:46:53.154 [main] LoggerForTests - Opening Edge browser.
+[INFO ] 2022-09-12 13:54:57.781 [main] LoggerForTests - Opening Edge browser.
+[INFO ] 2022-09-12 13:56:52.497 [main] LoggerForTests - Info log from employee division validation. Expected value is Tester
+[INFO ] 2022-09-12 13:56:52.503 [main] LoggerForTests - Info log from employee division validation. Expected value is Dev
+[INFO ] 2022-09-12 13:56:52.505 [main] LoggerForTests - Info log from employee division validation. Expected value is Pwoner
+[INFO ] 2022-09-12 13:56:52.508 [main] LoggerForTests - Info log from employee division validation. Expected value is Dir
+[INFO ] 2022-09-12 13:56:52.511 [main] LoggerForTests - Info log from employee division validation. Expected value is VP
+[INFO ] 2022-09-12 13:57:10.587 [main] LoggerForTests - Opening Edge browser.
+[INFO ] 2022-09-12 13:59:08.648 [main] LoggerForTests - Info log from employee division validation. Expected value is Tester
+[INFO ] 2022-09-12 13:59:08.652 [main] LoggerForTests - Info log from employee division validation. Expected value is Dev
+[INFO ] 2022-09-12 13:59:08.654 [main] LoggerForTests - Info log from employee division validation. Expected value is Pwoner
+[INFO ] 2022-09-12 13:59:08.656 [main] LoggerForTests - Info log from employee division validation. Expected value is Dir
+[INFO ] 2022-09-12 13:59:08.658 [main] LoggerForTests - Info log from employee division validation. Expected value is VP
+[INFO ] 2022-09-12 13:59:29.950 [main] LoggerForTests - Opening Edge browser.
+[INFO ] 2022-09-12 20:44:25.518 [main] LoggerForTests - Info log from employee division validation. Expected value is Tester
+[INFO ] 2022-09-12 20:44:25.523 [main] LoggerForTests - Info log from employee division validation. Expected value is Dev
+[INFO ] 2022-09-12 20:44:25.524 [main] LoggerForTests - Info log from employee division validation. Expected value is Pwoner
+[INFO ] 2022-09-12 20:44:25.526 [main] LoggerForTests - Info log from employee division validation. Expected value is Dir
+[INFO ] 2022-09-12 20:44:25.528 [main] LoggerForTests - Info log from employee division validation. Expected value is VP
+[INFO ] 2022-09-12 20:44:45.694 [main] LoggerForTests - Opening Edge browser.

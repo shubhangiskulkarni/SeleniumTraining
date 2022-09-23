@@ -1,0 +1,756 @@
+Selected zone is : West Zone
+Total Number of Hospitals : 16
+Name of The Hospital :  ANJANI HOSPITAL AND ICU Contact
+Total Available Beds :  Total Beds - 28
+Contact of The Hospital :  02612776000
+O2 beds availability :  0
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  BAPS PRAMUKH SWAMI HOSPITAL Contact
+Total Available Beds :  Total Beds - 25
+Contact of The Hospital :  02612781000
+O2 beds availability :  3
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  Botawala Isolation Center Contact
+Total Available Beds :  Total Beds - 27
+Contact of The Hospital :  9081079597
+O2 beds availability :  6
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  DHWANI HOSPITAL AND ICCU Contact
+Total Available Beds :  Total Beds - 18
+Contact of The Hospital :  9427644934
+O2 beds availability :  0
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  Goldstar Contact
+Total Available Beds :  Total Beds - 52
+Contact of The Hospital :  
+O2 beds availability :  0
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  GUJARAT GASTRO AND VASCULAR HOSPITAL Contact
+Total Available Beds :  Total Beds - 21
+Contact of The Hospital :  9033362020
+O2 beds availability :  0
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  HIBA CHC Contact
+Total Available Beds :  Total Beds - 72
+Contact of The Hospital :  7859978680
+O2 beds availability :  69
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  LIFELINE MULTISPECIALITY HOSPITAL Contact
+Total Available Beds :  Total Beds - 10
+Contact of The Hospital :  9909959968
+O2 beds availability :  2
+Ventialtor beds availability :  1
+--------------------------------------------------
+Name of The Hospital :  MALAVIA MULTISPECIALITY HOSPITAL Contact
+Total Available Beds :  Total Beds - 40
+Contact of The Hospital :  02612767668
+O2 beds availability :  24
+Ventialtor beds availability :  4
+--------------------------------------------------
+Name of The Hospital :  MEDIWISE HOSPITAL AND ICU Contact
+Total Available Beds :  Total Beds - 45
+Contact of The Hospital :  02612798091
+O2 beds availability :  26
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  Modhvanik Samaj Wadi (Pal) Contact
+Total Available Beds :  Total Beds - 72
+Contact of The Hospital :  9601737293
+O2 beds availability :  67
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  PAL CHC Contact
+Total Available Beds :  Total Beds - 55
+Contact of The Hospital :  9924995410
+O2 beds availability :  28
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  PARIJAT MEDICAL HOSPITAL Contact
+Total Available Beds :  Total Beds - 26
+Contact of The Hospital :  02612777341
+O2 beds availability :  14
+Ventialtor beds availability :  1
+--------------------------------------------------
+Name of The Hospital :  Samprati Isolation Center Contact
+Total Available Beds :  Total Beds - 120
+Contact of The Hospital :  7801832244
+O2 beds availability :  42
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  SHALBY HOSPITAL (SHALBY LIMITED) Contact
+Total Available Beds :  Total Beds - 150
+Contact of The Hospital :  9512049891
+O2 beds availability :  0
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  UNITED GREEN HOSPITAL Contact
+Total Available Beds :  Total Beds - 10
+Contact of The Hospital :  02617199036
+O2 beds availability :  0
+Ventialtor beds availability :  0
+--------------------------------------------------
+Selected zone is : Central Zone
+Total Number of Hospitals : 17
+Name of The Hospital :  21ST CENTURY FERTILITY CENTRE Contact
+Total Available Beds :  Total Beds - 20
+Contact of The Hospital :  02612490190
+O2 beds availability :  5
+Ventialtor beds availability :  2
+--------------------------------------------------
+Name of The Hospital :  ADVANCED SURAT TRAUMA & ORTHOPAEDIC SURGERY HOSPITAL (OPC) PRIVATE LIMITED Contact
+Total Available Beds :  Total Beds - 18
+Contact of The Hospital :  02612509300
+O2 beds availability :  8
+Ventialtor beds availability :  3
+--------------------------------------------------
+Name of The Hospital :  AYUSH ICU AND MULTISPECIALITY HOSPITAL Contact
+Total Available Beds :  Total Beds - 50
+Contact of The Hospital :  9825106019
+O2 beds availability :  3
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  BURHANI HOSPITAL Contact
+Total Available Beds :  Total Beds - 28
+Contact of The Hospital :  2505202
+O2 beds availability :  24
+Ventialtor beds availability :  3
+--------------------------------------------------
+Name of The Hospital :  Dayalji Ashram Contact
+Total Available Beds :  Total Beds - 50
+Contact of The Hospital :  
+O2 beds availability :  7
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  GIRISH GROUP OF HOSPITALS Contact
+Total Available Beds :  Total Beds - 50
+Contact of The Hospital :  02612472500
+O2 beds availability :  6
+Ventialtor beds availability :  5
+--------------------------------------------------
+Name of The Hospital :  HAJEE A M LOCKHAT & DR A M MOOLLA SARVAJANIK HOSPITAL Contact
+Total Available Beds :  Total Beds - 33
+Contact of The Hospital :  02612422080
+O2 beds availability :  17
+Ventialtor beds availability :  7
+--------------------------------------------------
+Name of The Hospital :  Modhavanik ni Wadi (Lal Daravaja) Contact
+Total Available Beds :  Total Beds - 129
+Contact of The Hospital :  9601737293
+O2 beds availability :  0
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  New Civil Hospital Contact
+Total Available Beds :  Total Beds - 1500
+Contact of The Hospital :  02612244457
+O2 beds availability :  1000
+Ventialtor beds availability :  400
+--------------------------------------------------
+Name of The Hospital :  NIRMAL HOSPITAL PVT LTD Contact
+Total Available Beds :  Total Beds - 50
+Contact of The Hospital :  4089999
+O2 beds availability :  0
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  S.M.V.Hospital(Rukmabai) Contact
+Total Available Beds :  Total Beds - 35
+Contact of The Hospital :  9978094344
+O2 beds availability :  0
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  SHETH P. T. SURAT GENERAL HOSPITAL Contact
+Total Available Beds :  Total Beds - 60
+Contact of The Hospital :  02612604000
+O2 beds availability :  49
+Ventialtor beds availability :  8
+--------------------------------------------------
+Name of The Hospital :  SHRI AMBIKANIKETAN MEDICAL TRUST - SHRI K.P.SANGHVI HOSPITAL Contact
+Total Available Beds :  Total Beds - 40
+Contact of The Hospital :  02612477788
+O2 beds availability :  14
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  SMT R B SHAH MAHAVIR SUPER SPECIALITY HOSPITAL Contact
+Total Available Beds :  Total Beds - 43
+Contact of The Hospital :  02612292000
+O2 beds availability :  18
+Ventialtor beds availability :  9
+--------------------------------------------------
+Name of The Hospital :  SMT. RASILABEN SEVANTILAL SHAH VENUS HOSPITAL Contact
+Total Available Beds :  Total Beds - 33
+Contact of The Hospital :  02612700300
+O2 beds availability :  0
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  SUFI SARVAJANIK HOSPITAL Contact
+Total Available Beds :  Total Beds - 45
+Contact of The Hospital :  02612450293
+O2 beds availability :  0
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  SURAT INSTITUTE OF MEDICAL SCIENCE LLP Contact
+Total Available Beds :  Total Beds - 40
+Contact of The Hospital :  9044290448
+O2 beds availability :  0
+Ventialtor beds availability :  0
+--------------------------------------------------
+Selected zone is : North Zone
+Total Number of Hospitals : 20
+Name of The Hospital :  BANSARI HOSPITAL&ICU Contact
+Total Available Beds :  Total Beds - 34
+Contact of The Hospital :  9228080806
+O2 beds availability :  0
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  BHARI MATA CHC Contact
+Total Available Beds :  Total Beds - 50
+Contact of The Hospital :  8000160003
+O2 beds availability :  5
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  INSTITUTE OF INFECTIOUS DISEASE AND CRITICAL CARE Contact
+Total Available Beds :  Total Beds - 21
+Contact of The Hospital :  9638150301
+O2 beds availability :  4
+Ventialtor beds availability :  2
+--------------------------------------------------
+Name of The Hospital :  KAMLABA MULTI SPECIALITY HOSPITAL Contact
+Total Available Beds :  Total Beds - 45
+Contact of The Hospital :  02612512200
+O2 beds availability :  0
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  KIRAN MULTI SUPER SPECIALITY HOSPITAL AND RESEARCH CENTER Contact
+Total Available Beds :  Total Beds - 229
+Contact of The Hospital :  02617161111
+O2 beds availability :  0
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  National Yuva Sangathan Contact
+Total Available Beds :  Total Beds - 30
+Contact of The Hospital :  9825130258
+O2 beds availability :  0
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  POOJA HOSPITAL Contact
+Total Available Beds :  Total Beds - 27
+Contact of The Hospital :  02612536815
+O2 beds availability :  0
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  Sahay Health and Education Charitable Trust Contact
+Total Available Beds :  Total Beds - 20
+Contact of The Hospital :  9979875000
+O2 beds availability :  7
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  SANJIVANI ICU PVT LTD Contact
+Total Available Beds :  Total Beds - 54
+Contact of The Hospital :  7405104477
+O2 beds availability :  19
+Ventialtor beds availability :  2
+--------------------------------------------------
+Name of The Hospital :  SARDAR HOSPITAL Contact
+Total Available Beds :  Total Beds - 30
+Contact of The Hospital :  9825030000
+O2 beds availability :  12
+Ventialtor beds availability :  1
+--------------------------------------------------
+Name of The Hospital :  SATADHAR MULTISPECIALITY HOSPITAL AND I.C.U Contact
+Total Available Beds :  Total Beds - 32
+Contact of The Hospital :  9913633004
+O2 beds availability :  1
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  SHRADDHA MULTISPECIALITY HOSPITAL Contact
+Total Available Beds :  Total Beds - 20
+Contact of The Hospital :  9978783338
+O2 beds availability :  0
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  SHREE PRANNATH HOSPITAL Contact
+Total Available Beds :  Total Beds - 135
+Contact of The Hospital :  02612510050
+O2 beds availability :  25
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  SHREE PRANNATH MULTI-SPECIALITY HOSPITAL Contact
+Total Available Beds :  Total Beds - 60
+Contact of The Hospital :  9558086019
+O2 beds availability :  12
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  SILVER MULTI SPECIALITY HOSPITAL Contact
+Total Available Beds :  Total Beds - 25
+Contact of The Hospital :  9967079992
+O2 beds availability :  5
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  THE NEW LIFE HOSPITAL Contact
+Total Available Beds :  Total Beds - 30
+Contact of The Hospital :  9714351351
+O2 beds availability :  0
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  VARDAN HOSPITAL & ICU Contact
+Total Available Beds :  Total Beds - 24
+Contact of The Hospital :  9925903776
+O2 beds availability :  1
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  Vastadevi Community Hall Contact
+Total Available Beds :  Total Beds - 70
+Contact of The Hospital :  7567576776
+O2 beds availability :  0
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  WE CARE MULTISPECIALITY HOSPITAL Contact
+Total Available Beds :  Total Beds - 25
+Contact of The Hospital :  7096571571
+O2 beds availability :  8
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  YOGI MULTI SPECIALITY HOSPITAL Contact
+Total Available Beds :  Total Beds - 19
+Contact of The Hospital :  2496900
+O2 beds availability :  2
+Ventialtor beds availability :  0
+--------------------------------------------------
+Selected zone is : East Zone - A
+Total Number of Hospitals : 10
+Name of The Hospital :  ANUPAM HOAPITAL Contact
+Total Available Beds :  Total Beds - 2
+Contact of The Hospital :  9979864770
+O2 beds availability :  0
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  Hirabaugh Community Hall Contact
+Total Available Beds :  Total Beds - 25
+Contact of The Hospital :  9377713501
+O2 beds availability :  3
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  Kapodra Community Hall Contact
+Total Available Beds :  Total Beds - 30
+Contact of The Hospital :  9054263559
+O2 beds availability :  7
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  NISHTHA HOSPITAL Contact
+Total Available Beds :  Total Beds - 34
+Contact of The Hospital :  02612540222
+O2 beds availability :  9
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  P.P.SAVANI HEART INSTITUTE AND MULTISPECIALITY HOSPITAL Contact
+Total Available Beds :  Total Beds - 15
+Contact of The Hospital :  9979967688
+O2 beds availability :  2
+Ventialtor beds availability :  1
+--------------------------------------------------
+Name of The Hospital :  SADVICHAR TRUST GENERAL HOSPITAL Contact
+Total Available Beds :  Total Beds - 16
+Contact of The Hospital :  7600306420
+O2 beds availability :  10
+Ventialtor beds availability :  1
+--------------------------------------------------
+Name of The Hospital :  SHREE BALAJI HOSPITAL AND ICU Contact
+Total Available Beds :  Total Beds - 23
+Contact of The Hospital :  02612859990
+O2 beds availability :  6
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  Shyama Prasad Mukherji Community Hall Contact
+Total Available Beds :  Total Beds - 25
+Contact of The Hospital :  9825527424
+O2 beds availability :  0
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  SMIMER HOSPITAL Contact
+Total Available Beds :  Total Beds - 941
+Contact of The Hospital :  9724346042
+O2 beds availability :  691
+Ventialtor beds availability :  143
+--------------------------------------------------
+Name of The Hospital :  UNITY TRAUMA CENTER AND ICU Contact
+Total Available Beds :  Total Beds - 3
+Contact of The Hospital :  9879955855
+O2 beds availability :  0
+Ventialtor beds availability :  0
+--------------------------------------------------
+Selected zone is : South Zone
+Total Number of Hospitals : 10
+Name of The Hospital :  AADHYA HOSPITAL Contact
+Total Available Beds :  Total Beds - 20
+Contact of The Hospital :  9979747619
+O2 beds availability :  5
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  AKANKSHA MEDICAL HOSPITAL Contact
+Total Available Beds :  Total Beds - 35
+Contact of The Hospital :  9825833525
+O2 beds availability :  0
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  AMAAN MULTISPECIALITY HOSPITAL Contact
+Total Available Beds :  Total Beds - 18
+Contact of The Hospital :  02612751200
+O2 beds availability :  5
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  APPLE HOSPITAL THE VENTURE OF SURAT HEALTH SERVICES PVT. LTD. Contact
+Total Available Beds :  Total Beds - 50
+Contact of The Hospital :  02616696000
+O2 beds availability :  3
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  Bhestan CHC Contact
+Total Available Beds :  Total Beds - 64
+Contact of The Hospital :  7575856555
+O2 beds availability :  64
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  Bhestan Community Hall Contact
+Total Available Beds :  Total Beds - 95
+Contact of The Hospital :  9825935999
+O2 beds availability :  0
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  INS HOSPITAL Contact
+Total Available Beds :  Total Beds - 68
+Contact of The Hospital :  02612706000
+O2 beds availability :  0
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  Ramji Wadi Contact
+Total Available Beds :  Total Beds - 100
+Contact of The Hospital :  9726221133
+O2 beds availability :  71
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  UDHNA HOSPITAL PRIVATE LIMITED Contact
+Total Available Beds :  Total Beds - 40
+Contact of The Hospital :  02612277991
+O2 beds availability :  20
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  VIVEK HOSPITAL Contact
+Total Available Beds :  Total Beds - 6
+Contact of The Hospital :  9825163951
+O2 beds availability :  4
+Ventialtor beds availability :  0
+--------------------------------------------------
+Selected zone is : South West Zone
+Total Number of Hospitals : 25
+Name of The Hospital :  AMRUTA HOSPITAL Contact
+Total Available Beds :  Total Beds - 32
+Contact of The Hospital :  02612244979
+O2 beds availability :  21
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  ANSH HOSPITAL Contact
+Total Available Beds :  Total Beds - 12
+Contact of The Hospital :  07046543339
+O2 beds availability :  6
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  Atal Samvedna Contact
+Total Available Beds :  Total Beds - 110
+Contact of The Hospital :  9925109982
+O2 beds availability :  40
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  Celebration Contact
+Total Available Beds :  Total Beds - 180
+Contact of The Hospital :  
+O2 beds availability :  9
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  CELEBRE AESTHETICS Contact
+Total Available Beds :  Total Beds - 3
+Contact of The Hospital :  9909721280
+O2 beds availability :  0
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  DWTI PRABHU GENERAL HOSPITAL & BANKERS HEART INSTITUTE Contact
+Total Available Beds :  Total Beds - 47
+Contact of The Hospital :  02612293000
+O2 beds availability :  10
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  Gangani House Contact
+Total Available Beds :  Total Beds - 62
+Contact of The Hospital :  
+O2 beds availability :  0
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  Gokul Solataire Contact
+Total Available Beds :  Total Beds - 88
+Contact of The Hospital :  
+O2 beds availability :  0
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  GREEN LEAF HOSPITAL Contact
+Total Available Beds :  Total Beds - 14
+Contact of The Hospital :  02612203550
+O2 beds availability :  0
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  JIOMAX MULTI SUPER SPECIALITY HOSPITAL Contact
+Total Available Beds :  Total Beds - 60
+Contact of The Hospital :  02612265551
+O2 beds availability :  36
+Ventialtor beds availability :  5
+--------------------------------------------------
+Name of The Hospital :  Kapadia Health Club Contact
+Total Available Beds :  Total Beds - 109
+Contact of The Hospital :  
+O2 beds availability :  6
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  Krishna Contact
+Total Available Beds :  Total Beds - 12
+Contact of The Hospital :  
+O2 beds availability :  0
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  MAITREYA MEDICARE PRIVATE LIMITED Contact
+Total Available Beds :  Total Beds - 115
+Contact of The Hospital :  7203940878
+O2 beds availability :  69
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  MARINA GRAND HOSPITAL Contact
+Total Available Beds :  Total Beds - 40
+Contact of The Hospital :  9913359569
+O2 beds availability :  33
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  MEDICAL EDUCATIONAL TRUST ASSOCIATION SURAT OF SEVENTH DAY ADVENTIST Contact
+Total Available Beds :  Total Beds - 230
+Contact of The Hospital :  9624555777
+O2 beds availability :  100
+Ventialtor beds availability :  10
+--------------------------------------------------
+Name of The Hospital :  PIPLOD HOSPITAL Contact
+Total Available Beds :  Total Beds - 16
+Contact of The Hospital :  8735882281
+O2 beds availability :  0
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  RADHIKA HOSPITAL&POLYCLINIC Contact
+Total Available Beds :  Total Beds - 22
+Contact of The Hospital :  02612227652
+O2 beds availability :  0
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  SANGINI ADVANCE WOMEN'S CARE Contact
+Total Available Beds :  Total Beds - 15
+Contact of The Hospital :  
+O2 beds availability :  9
+Ventialtor beds availability :  5
+--------------------------------------------------
+Name of The Hospital :  SANJEEVANI MULTI SPECIALITY HOSPITAL ( A UNIT OF VEDANSHI HEALTH CARE ) Contact
+Total Available Beds :  Total Beds - 24
+Contact of The Hospital :  8140215777
+O2 beds availability :  0
+Ventialtor beds availability :  5
+--------------------------------------------------
+Name of The Hospital :  SHIVJYOTI HOSPITAL Contact
+Total Available Beds :  Total Beds - 30
+Contact of The Hospital :  
+O2 beds availability :  13
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  SHREE GURUNANAK DHARMARTH HOSPITAL Contact
+Total Available Beds :  Total Beds - 25
+Contact of The Hospital :  9408595599
+O2 beds availability :  11
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  SUNSHINE GLOBAL HOSPITAL Contact
+Total Available Beds :  Total Beds - 95
+Contact of The Hospital :  02614111000
+O2 beds availability :  60
+Ventialtor beds availability :  14
+--------------------------------------------------
+Name of The Hospital :  The Park Infiniy Contact
+Total Available Beds :  Total Beds - 80
+Contact of The Hospital :  
+O2 beds availability :  0
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  TRISTAR HOSPITALS Contact
+Total Available Beds :  Total Beds - 80
+Contact of The Hospital :  02612200200
+O2 beds availability :  58
+Ventialtor beds availability :  9
+--------------------------------------------------
+Name of The Hospital :  UNIQUE HOSPITAL MULTISPECIALITY AND RESEARCH INSTITUTE RUN BY SURAT LIFE CARE PVT LTD Contact
+Total Available Beds :  Total Beds - 103
+Contact of The Hospital :  02616776666
+O2 beds availability :  0
+Ventialtor beds availability :  0
+--------------------------------------------------
+Selected zone is : South East Zone
+Total Number of Hospitals : 10
+Name of The Hospital :  5 STAR MULTISPECIALITY HOSPITAL & ICU Contact
+Total Available Beds :  Total Beds - 26
+Contact of The Hospital :  9909735000
+O2 beds availability :  9
+Ventialtor beds availability :  1
+--------------------------------------------------
+Name of The Hospital :  BRIDGECROSS HOSPITAL Contact
+Total Available Beds :  Total Beds - 15
+Contact of The Hospital :  9377171007
+O2 beds availability :  4
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  Kumar Chhatralay Contact
+Total Available Beds :  Total Beds - 172
+Contact of The Hospital :  9998107959
+O2 beds availability :  0
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  MAX HOSPITAL Contact
+Total Available Beds :  Total Beds - 13
+Contact of The Hospital :  7802944351
+O2 beds availability :  12
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  NAVJIVAN MULTISPECIALITY HOSPITAL AND PRASUTI GRUH Contact
+Total Available Beds :  Total Beds - 15
+Contact of The Hospital :  9737065544
+O2 beds availability :  6
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  Parvat Patia Community Hall Contact
+Total Available Beds :  Total Beds - 64
+Contact of The Hospital :  8141382828
+O2 beds availability :  0
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  PULSE HOSPITAL & ICU Contact
+Total Available Beds :  Total Beds - 10
+Contact of The Hospital :  8866067267
+O2 beds availability :  3
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  SARTHI GENARAL HOSPITAL Contact
+Total Available Beds :  Total Beds - 11
+Contact of The Hospital :  9879675260
+O2 beds availability :  6
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  SHREEJI HOSPITAL Contact
+Total Available Beds :  Total Beds - 20
+Contact of The Hospital :  9724234772
+O2 beds availability :  5
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  SHREYAL HOSPITAL Contact
+Total Available Beds :  Total Beds - 8
+Contact of The Hospital :  7874555983
+O2 beds availability :  2
+Ventialtor beds availability :  0
+--------------------------------------------------
+Selected zone is : East Zone - B
+Total Number of Hospitals : 11
+Name of The Hospital :  BHALANI HOSPITAL Contact
+Total Available Beds :  Total Beds - 20
+Contact of The Hospital :  7069100500
+O2 beds availability :  19
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  CHIRAYU MULTISPECIALITY HOSPITAL Contact
+Total Available Beds :  Total Beds - 35
+Contact of The Hospital :  7210808108
+O2 beds availability :  28
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  G B VAGHANI MULTISPECIALITY HOSPITAL Contact
+Total Available Beds :  Total Beds - 41
+Contact of The Hospital :  9510695854
+O2 beds availability :  2
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  GLOBAL HOSPITAL Contact
+Total Available Beds :  Total Beds - 25
+Contact of The Hospital :  9967079992
+O2 beds availability :  6
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  ITALIYA MULTISPECIALITY HOSPITAL Contact
+Total Available Beds :  Total Beds - 22
+Contact of The Hospital :  9067826000
+O2 beds availability :  1
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  MANTRA HOSPITAL & ICU Contact
+Total Available Beds :  Total Beds - 13
+Contact of The Hospital :  9979595391
+O2 beds availability :  0
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  SAMARPAN GENERAL HOSPITAL Contact
+Total Available Beds :  Total Beds - 18
+Contact of The Hospital :  9978966033
+O2 beds availability :  13
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  SHYAMUBA HOSPITAL Contact
+Total Available Beds :  Total Beds - 20
+Contact of The Hospital :  02612570570
+O2 beds availability :  0
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  Sudama Group & PAS Team Contact
+Total Available Beds :  Total Beds - 40
+Contact of The Hospital :  8000005628
+O2 beds availability :  14
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  VEDANT HOSPITAL & ICU Contact
+Total Available Beds :  Total Beds - 17
+Contact of The Hospital :  02612571050
+O2 beds availability :  2
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  Yuva Sanskruti Charitable Trust Contact
+Total Available Beds :  Total Beds - 56
+Contact of The Hospital :  9913566221
+O2 beds availability :  27
+Ventialtor beds availability :  0
+--------------------------------------------------
+Selected zone is : South Zone-B
+Total Number of Hospitals : 2
+Name of The Hospital :  ATOZ MULTISPECIALITY HOSPITAL LLP Contact
+Total Available Beds :  Total Beds - 31
+Contact of The Hospital :  7610810833
+O2 beds availability :  30
+Ventialtor beds availability :  0
+--------------------------------------------------
+Name of The Hospital :  SAMARPAN MULTISPECIALITY HOSPITAL Contact
+Total Available Beds :  Total Beds - 20
+Contact of The Hospital :  9377101101
+O2 beds availability :  14
+Ventialtor beds availability :  0
+--------------------------------------------------
+PASSED: ValidateCovidDetails
+
+===============================================
+    Default test
+    Tests run: 1, Failures: 0, Skips: 0
+===============================================
+
+
+===============================================
+Default suite
+Total tests run: 1, Passes: 1, Failures: 0, Skips: 0
+===============================================
