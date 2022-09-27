@@ -10,7 +10,7 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.annotations.Test;
 
-public class Assignment_7ShopingCart {
+public class Assignment_7ShoppingCart {
 
 	@Test
 	public void ValidateShoppingCart() throws InterruptedException {
@@ -23,6 +23,11 @@ public class Assignment_7ShopingCart {
 		edgeDriver.get("http://tutorialsninja.com/demo/index.php");
 
 		try {
+			
+			
+			
+			
+			
 
 
 // TestStep #2 

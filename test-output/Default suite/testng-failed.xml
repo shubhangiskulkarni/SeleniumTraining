@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="selenium.Assignment_7ShopingCart">
+      <class name="testSuite2.EmployeeSalaryTest">
         <methods>
-          <include name="ValidateShoppingCart"/>
+          <include name="validateEmpDiv1" invocation-numbers="0 1 2 3 4"/>
         </methods>
-      </class> <!-- selenium.Assignment_7ShopingCart -->
+      </class> <!-- testSuite2.EmployeeSalaryTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

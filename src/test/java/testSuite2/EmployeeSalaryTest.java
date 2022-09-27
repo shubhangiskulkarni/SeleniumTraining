@@ -1,5 +1,7 @@
 package testSuite2;
 
+import java.lang.System.Logger;
+
 import org.testng.Assert;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
@@ -170,6 +172,9 @@ public class EmployeeSalaryTest {
 	{
 		String aempDiv;
 		LoggerForTests.info("Info log from employee division validation. Expected value is " + empDiv);
+		LoggerForTests.warn("This is sample warning");
+	
+		
 
 		aempDiv = empSal.getEmpDivision(empDiv);
 

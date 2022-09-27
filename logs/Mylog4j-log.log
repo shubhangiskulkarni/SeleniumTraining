@@ -32,3 +32,18 @@
 [INFO ] 2022-09-12 20:44:25.526 [main] LoggerForTests - Info log from employee division validation. Expected value is Dir
 [INFO ] 2022-09-12 20:44:25.528 [main] LoggerForTests - Info log from employee division validation. Expected value is VP
 [INFO ] 2022-09-12 20:44:45.694 [main] LoggerForTests - Opening Edge browser.
+[INFO ] 2022-09-26 14:29:08.337 [main] LoggerForTests - Info log from employee division validation. Expected value is Tester
+[INFO ] 2022-09-26 14:29:08.480 [main] LoggerForTests - Info log from employee division validation. Expected value is Dev
+[INFO ] 2022-09-26 14:29:08.485 [main] LoggerForTests - Info log from employee division validation. Expected value is Pwoner
+[INFO ] 2022-09-26 14:29:08.490 [main] LoggerForTests - Info log from employee division validation. Expected value is Dir
+[INFO ] 2022-09-26 14:29:08.496 [main] LoggerForTests - Info log from employee division validation. Expected value is VP
+[INFO ] 2022-09-26 14:32:58.805 [main] LoggerForTests - Info log from employee division validation. Expected value is Tester
+[WARN ] 2022-09-26 14:32:58.808 [main] LoggerForTests - This is sample warning
+[INFO ] 2022-09-26 14:32:58.817 [main] LoggerForTests - Info log from employee division validation. Expected value is Dev
+[WARN ] 2022-09-26 14:32:58.817 [main] LoggerForTests - This is sample warning
+[INFO ] 2022-09-26 14:32:58.821 [main] LoggerForTests - Info log from employee division validation. Expected value is Pwoner
+[WARN ] 2022-09-26 14:32:58.822 [main] LoggerForTests - This is sample warning
+[INFO ] 2022-09-26 14:32:58.826 [main] LoggerForTests - Info log from employee division validation. Expected value is Dir
+[WARN ] 2022-09-26 14:32:58.826 [main] LoggerForTests - This is sample warning
+[INFO ] 2022-09-26 14:32:58.830 [main] LoggerForTests - Info log from employee division validation. Expected value is VP
+[WARN ] 2022-09-26 14:32:58.830 [main] LoggerForTests - This is sample warning
